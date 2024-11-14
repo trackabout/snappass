@@ -1,5 +1,3 @@
-version: '3'
-
 services:
     snappass:
         image: trackabout/snappass:main
